@@ -3,7 +3,122 @@ guid: 0a68335abe0e57b45a3cc48fda30e682
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.016
+    second: {fileID: 2100000, guid: 4e86d54637fda88439ec2b297ce54b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.017
+    second: {fileID: 2100000, guid: 10003cb11ee51314490210ca45e01b53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.018
+    second: {fileID: 2100000, guid: 502dcbeec4b930542862311d1abd378d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.020
+    second: {fileID: 2100000, guid: bb90ea6797fc84441b1f8f424d60d596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.023
+    second: {fileID: 2100000, guid: a092e95ace511c448afe59563575a87e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.024
+    second: {fileID: 2100000, guid: 596eb31c4cf1d8649bdd65bf683e5196, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.025
+    second: {fileID: 2100000, guid: f14207338ad7cdb4ea46842474887927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.026
+    second: {fileID: 2100000, guid: 1517be5f71eb1aa46bfc81d21e335e8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.030
+    second: {fileID: 2100000, guid: 88010712b9cb3ba45809b28885e92c10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.031
+    second: {fileID: 2100000, guid: d6394115d1fa7b44ca62534786f298ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0.032
+    second: {fileID: 2100000, guid: d3104814c95eccb499fb8cedbfdc077b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.010
+    second: {fileID: 2100000, guid: dd7e5a743efc31249821fa154dd275b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.012
+    second: {fileID: 2100000, guid: 1482406f2bfcc1341aa29364f7b1fb0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.015
+    second: {fileID: 2100000, guid: 64d31a856be4ed34ab0a1ac7c336af62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.016
+    second: {fileID: 2100000, guid: 5eda74921183b8a4ca9169e11db7e313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.017
+    second: {fileID: 2100000, guid: 58b26960ab773964490b8246f896a967, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.021
+    second: {fileID: 2100000, guid: 1b74d696fc324aa4ba27a6f67c79ea72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.022
+    second: {fileID: 2100000, guid: 89f282c685e85e74498090d3c2f3ec1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_1.023
+    second: {fileID: 2100000, guid: 675ffde65676e344aa694c6e0f9bd184, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_2.007
+    second: {fileID: 2100000, guid: a89e83fcfa460684cb7f35531d0b7502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_2.008
+    second: {fileID: 2100000, guid: 5bdd75ddd2d4d4a43958a1cc73cdb1f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_2.009
+    second: {fileID: 2100000, guid: 3bd86aabdbe1a654f88339287952723a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_2.012
+    second: {fileID: 2100000, guid: 1ca3ef10da99c3244a337e594d6c3686, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -121,7 +121,6 @@ public class UIBuilder : MonoBehaviour
 
         GridLayoutGroup glg = serviciosGrid.AddComponent<GridLayoutGroup>();
         glg.constraintCount = 2;
-        glg.constraintType = GridLayoutGroup.Constraint.FixedColumnCount;
         glg.cellSize = new Vector2(400, 250);
         glg.spacing = new Vector2(20, 20);
 
@@ -175,7 +174,6 @@ public class UIBuilder : MonoBehaviour
 
         GridLayoutGroup ggrid = compGrid.AddComponent<GridLayoutGroup>();
         ggrid.constraintCount = 5;
-        ggrid.constraintType = GridLayoutGroup.Constraint.FixedColumnCount;
         ggrid.cellSize = new Vector2(180, 180);
         ggrid.spacing = new Vector2(15, 15);
 
@@ -219,7 +217,6 @@ public class UIBuilder : MonoBehaviour
 
         GridLayoutGroup sgrid = salasGrid.AddComponent<GridLayoutGroup>();
         sgrid.constraintCount = 2;
-        sgrid.constraintType = GridLayoutGroup.Constraint.FixedColumnCount;
         sgrid.cellSize = new Vector2(250, 150);
         sgrid.spacing = new Vector2(20, 20);
 
@@ -376,7 +373,6 @@ public class UIBuilder : MonoBehaviour
         img.color = new Color(0.95f, 0.95f, 0.95f, 1f);
 
         InputField input = inputObj.AddComponent<InputField>();
-        input.textComponent = CreateText(inputObj, "Placeholder", placeholder, 0, 0, width - 20, height, 30, TextAlignmentOptions.MiddleLeft).GetComponent<TextMeshProUGUI>();
         input.text = "";
     }
 

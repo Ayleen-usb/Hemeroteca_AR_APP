@@ -165,12 +165,9 @@ public class UIManager : MonoBehaviour
     {
         string computerId = "PC" + computerNumber;
         Debug.Log($"[UIManager] Selected computer: {computerId}");
-        
+
         // Intenta navegar si NavigationManager existe
-        if (NavigationManager.Instance != null)
-            NavigationManager.Instance.NavigateTo(computerId);
         
-        ShowPanel(panelRecorrido);
     }
 
     void OnSalaSelected(int roomNumber)
@@ -179,8 +176,6 @@ public class UIManager : MonoBehaviour
         Debug.Log($"[UIManager] Selected room: {roomId}");
         
         // Intenta navegar si NavigationManager existe
-        if (NavigationManager.Instance != null)
-            NavigationManager.Instance.NavigateTo(roomId);
         
         ShowPanel(panelRecorrido);
     }

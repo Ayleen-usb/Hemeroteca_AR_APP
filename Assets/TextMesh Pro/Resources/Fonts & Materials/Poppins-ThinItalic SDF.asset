@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Poppins-ThinItalic SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: -1126329642
   material: {fileID: 6115374191829971538}
-  materialHashCode: 0
+  materialHashCode: -1832327370
   m_Version: 1.1.0
   m_SourceFontFileGUID: fc74e818d22940b4fbf5a301d45e3452
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: fc74e818d22940b4fbf5a301d45e3452, type: 3}

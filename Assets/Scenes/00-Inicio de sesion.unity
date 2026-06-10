@@ -182,7 +182,7 @@ MonoBehaviour:
   m_text: "Contrase\xF1a"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
-  m_sharedMaterial: {fileID: 2686629654040793846, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
+  m_sharedMaterial: {fileID: 7258471735241510999, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -586,7 +586,7 @@ MonoBehaviour:
   m_text: Nombre de usuario
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
-  m_sharedMaterial: {fileID: 2686629654040793846, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
+  m_sharedMaterial: {fileID: 7258471735241510999, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1079,7 +1079,7 @@ MonoBehaviour:
   m_text: "\xA1Bienvenido, un gusto tenerlo de vuelta!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ebfd4749a206ff34ab2bd111e591e3f6, type: 2}
-  m_sharedMaterial: {fileID: -8217473266140804325, guid: ebfd4749a206ff34ab2bd111e591e3f6, type: 2}
+  m_sharedMaterial: {fileID: 4748212709988311192, guid: ebfd4749a206ff34ab2bd111e591e3f6, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1363,7 +1363,7 @@ MonoBehaviour:
   m_text: "Iniciar sesi\xF3n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
-  m_sharedMaterial: {fileID: 2686629654040793846, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
+  m_sharedMaterial: {fileID: 7258471735241510999, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1565,7 +1565,7 @@ MonoBehaviour:
   m_text: Hemeroteca
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8bfe98bb9f6f01c488270a2dd234db64, type: 2}
-  m_sharedMaterial: {fileID: -714686369111512748, guid: 8bfe98bb9f6f01c488270a2dd234db64, type: 2}
+  m_sharedMaterial: {fileID: -3112054031208171041, guid: 8bfe98bb9f6f01c488270a2dd234db64, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1831,7 +1831,7 @@ MonoBehaviour:
   m_text: "\xBFOlvido su contrase\xF1a?"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
-  m_sharedMaterial: {fileID: 2686629654040793846, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
+  m_sharedMaterial: {fileID: 7258471735241510999, guid: d3e71609694297f49ad07140c383a1a9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

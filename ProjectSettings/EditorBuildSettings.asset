@@ -4,7 +4,40 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00-Inicio de sesion.unity
+    guid: 4f4a45ed7f1adb744af5997f494bb1e1
+  - enabled: 1
+    path: Assets/Scenes/01-Home.unity
+    guid: 842650fec0d79ad48a6b438c17fa64b7
+  - enabled: 1
+    path: Assets/Scenes/02-Reservas.unity
+    guid: 83f0da0d0c8ac3e468ac6b3aeaa94d08
+  - enabled: 1
+    path: Assets/Scenes/03-Notificaciones.unity
+    guid: f3ec4cd3e79f75040891e054c6d82ade
+  - enabled: 1
+    path: Assets/Scenes/04-Computadores.unity
+    guid: 33dcdbfb6f251c2468d055af7feb4abd
+  - enabled: 1
+    path: Assets/Scenes/05-SalasDeEstudio.unity
+    guid: c0de324c472688740b7bb2ae815ce69e
+  - enabled: 1
+    path: Assets/Scenes/06-Recorrido.unity
+    guid: df3421c7ec473614ea7137dba3509f1b
+  - enabled: 1
+    path: Assets/Scenes/07-PreguntasFrecuentes.unity
+    guid: af9afef3d28317044b9e62221de4cc9d
+  - enabled: 1
+    path: Assets/Scenes/08-DisponibilidadComputadores.unity
+    guid: ef1be6a7a707ce14ba3eeaf8eabe7149
+  - enabled: 1
+    path: Assets/Scenes/09-DisponibilidadSalas.unity
+    guid: 4e68a00d7f6d4f84faf3258a3e02d4c5
+  - enabled: 1
+    path: Assets/Scenes/10-VistadeEscena.unity
+    guid: c128dd4a1927d7347bbfe22fb7b20682
   m_configObjects:
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d54b27e2a5ffd7e45baada640025bbe3, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b39a0484e955f304497f4a1119e905c9, type: 2}

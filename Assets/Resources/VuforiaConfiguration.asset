@@ -46,7 +46,7 @@ MonoBehaviour:
     autoImportArcore: 1
     thirdPartyARCoreClientDetected: 0
   playmode:
-    mRecordingPath: C:/Users/User/Downloads/VuforiaSession-20260605-200733/VuforiaSession-20260605-200733.mp4
+    mRecordingPath: C:/Users/MULTIMEDIA/Downloads/Vuforia/VuforiaSession-20260605-200733/VuforiaSession-20260605-200733.mp4
     playModeType: 2
     mSimulatorInputActionAsset: {fileID: -944628639613478452, guid: eae7022f5cfd04e8189b1f372421b225, type: 3}
   webcam:

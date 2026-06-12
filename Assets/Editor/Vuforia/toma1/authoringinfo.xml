@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<QCARInfo>
-    <TargetSet version="3.4">
-        <AreaTarget version="5.2" bbox="-7.5603 -0.8829 -8.1029 2.8045 1.2088 -0.0815" area="51" targetId="eace4d56f23742e197554b43e8d48e7e" name="toma1" pathAuthoring="eace4d56f23742e197554b43e8d48e7e_authoring.glb" pathOcclusion="eace4d56f23742e197554b43e8d48e7e_occlusion.3dt" pathNavMesh="eace4d56f23742e197554b43e8d48e7e_navmesh.glb" cloudTarget="false" />
-    </TargetSet>
-</QCARInfo>

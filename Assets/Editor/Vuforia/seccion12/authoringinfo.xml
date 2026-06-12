@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<QCARInfo>
-    <TargetSet version="3.4">
-        <AreaTarget version="5.2" bbox="3.5033 -1.2591 -3.8655 15.3560 1.5704 5.1694" area="56" targetId="88e7bdff73c3442da7d89bafc584af76" name="seccion12" pathAuthoring="88e7bdff73c3442da7d89bafc584af76_authoring.glb" pathOcclusion="88e7bdff73c3442da7d89bafc584af76_occlusion.3dt" pathNavMesh="88e7bdff73c3442da7d89bafc584af76_navmesh.glb" cloudTarget="false" />
-    </TargetSet>
-</QCARInfo>
